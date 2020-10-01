@@ -1,0 +1,36 @@
+h1{
+    font-style: oblique;
+    color:#8892a1;
+}
+.para{
+    font-style: italic;
+    font-size: 50px;
+    color: #9c4e78;
+}
+.types{
+    font-size: 35px;
+    font-style: italic;
+    color: #8090a0;
+}
+img{
+    border : solid;
+    border-color: #0000ff;
+}
+.bg{
+    background-image: "https://s3.envato.com/files/252241180/Preview%20Image.jpg";
+}
+a:link{
+  color: chartreuse;
+}
+a:visited{
+    color: red;
+}
+.links{
+ border: solid;
+ border-color: black;
+ margin:10px;
+ font-size: 20px;
+}
+.topic{
+    font-size:100px;
+}
